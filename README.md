@@ -49,6 +49,4 @@ Consider additional data sources or more in-depth analysis.
 Benefits:
 This project not only offers valuable insights for Airbnb hosts but also helps travelers make informed decisions when booking accommodations. By analyzing user satisfaction and pricing, the project contributes to improving the overall Airbnb experience.
 
-## Note: Replace any placeholders in this description with specific details about your project, such as the cities you've analyzed and any unique findings or recommendations.
-
 Feel free to use this description as a starting point for your GitHub project repository.
